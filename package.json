@@ -1,0 +1,10 @@
+{
+  "name": "ecommerce-analytics",
+  "version": "1.0.0",
+  "description": "E-commerce Sales Analytics Dashboard",
+  "scripts": {
+    "dev": "streamlit run app.py",
+    "start": "streamlit run app.py",
+    "generate-data": "python3 data_generator.py"
+  }
+}
